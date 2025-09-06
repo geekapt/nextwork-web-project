@@ -27,6 +27,7 @@ Click here to view documentaion
 
 📁 Project Structure
 
+```
 nextwork-cicd-web-project/
 ├── appspec.yml
 ├── buildspec.yml
@@ -43,6 +44,8 @@ nextwork-cicd-web-project/
             ├── index.jsp
             └── WEB-INF/
                 └── web.xml
+```
+
 
 index.jsp: The main entry point of the web app.
 
